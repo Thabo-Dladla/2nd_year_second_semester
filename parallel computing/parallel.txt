@@ -1,0 +1,103 @@
+--- Parallel: GateSize = 10 ---
+         dungeon size: 10,
+         rows: 100, columns: 100
+         x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+         Number searches: 200
+
+         time: 13 ms
+        number dungeon grid points evaluated: 4539  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 25 ---
+         dungeon size: 25,
+         rows: 250, columns: 250
+         x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+         Number searches: 1250
+
+         time: 59 ms
+        number dungeon grid points evaluated: 27346  (44%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 50 ---
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 5000
+
+         time: 74 ms
+        number dungeon grid points evaluated: 103790  (42%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 75 ---
+         dungeon size: 75,
+         rows: 750, columns: 750
+         x: [-75.000000, 75.000000], y: [-75.000000, 75.000000]
+         Number searches: 11250
+
+         time: 93 ms
+        number dungeon grid points evaluated: 215054  (38%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 100 ---
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 20000
+
+         time: 224 ms
+        number dungeon grid points evaluated: 394166  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 150 ---
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 45000
+
+         time: 409 ms
+        number dungeon grid points evaluated: 883617  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 250 ---
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 125000
+
+         time: 568 ms
+        number dungeon grid points evaluated: 2371911  (38%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+
+--- Parallel: GateSize = 500 ---
+         dungeon size: 500,
+         rows: 5000, columns: 5000
+         x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+         Number searches: 500000
+
+         time: 2544 ms
+        number dungeon grid points evaluated: 9374808  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png

@@ -1,0 +1,504 @@
+--- GateSize = 10, Cutoff = 10 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 96 ms
+	number dungeon grid points evaluated: 4487  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 25 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 12 ms
+	number dungeon grid points evaluated: 4425  (44%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 50 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 9 ms
+	number dungeon grid points evaluated: 4424  (44%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 100 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 16 ms
+	number dungeon grid points evaluated: 4491  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 250 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 10 ms
+	number dungeon grid points evaluated: 4539  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 500 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 10 ms
+	number dungeon grid points evaluated: 4539  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 10, Cutoff = 1000 ---
+	 dungeon size: 10,
+	 rows: 100, columns: 100
+	 x: [-10.000000, 10.000000], y: [-10.000000, 10.000000]
+	 Number searches: 200
+
+	 time: 11 ms
+	number dungeon grid points evaluated: 4539  (45%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 10 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 24 ms
+	number dungeon grid points evaluated: 26714  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 25 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 24 ms
+	number dungeon grid points evaluated: 27072  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 50 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 19 ms
+	number dungeon grid points evaluated: 27017  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 100 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 21 ms
+	number dungeon grid points evaluated: 26917  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 250 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 19 ms
+	number dungeon grid points evaluated: 27004  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 500 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 16 ms
+	number dungeon grid points evaluated: 26838  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 25, Cutoff = 1000 ---
+	 dungeon size: 25,
+	 rows: 250, columns: 250
+	 x: [-25.000000, 25.000000], y: [-25.000000, 25.000000]
+	 Number searches: 1250
+
+	 time: 20 ms
+	number dungeon grid points evaluated: 26972  (43%)
+Dungeon Master (mana 44391) found at:  x=-3.4 y=5.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 10 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 50 ms
+	number dungeon grid points evaluated: 102081  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 25 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 52 ms
+	number dungeon grid points evaluated: 102304  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 50 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 54 ms
+	number dungeon grid points evaluated: 102843  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 100 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 44 ms
+	number dungeon grid points evaluated: 101321  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 250 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 47 ms
+	number dungeon grid points evaluated: 101986  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 500 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 57 ms
+	number dungeon grid points evaluated: 103804  (42%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 50, Cutoff = 1000 ---
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+	 Number searches: 5000
+
+	 time: 64 ms
+	number dungeon grid points evaluated: 103737  (41%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 10 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 163 ms
+	number dungeon grid points evaluated: 392187  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 25 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 161 ms
+	number dungeon grid points evaluated: 392627  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 50 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 144 ms
+	number dungeon grid points evaluated: 389632  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 100 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 135 ms
+	number dungeon grid points evaluated: 386177  (39%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 250 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 101 ms
+	number dungeon grid points evaluated: 375772  (38%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 500 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 125 ms
+	number dungeon grid points evaluated: 384268  (38%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 100, Cutoff = 1000 ---
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+	 Number searches: 20000
+
+	 time: 116 ms
+	number dungeon grid points evaluated: 381432  (38%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 10 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 501 ms
+	number dungeon grid points evaluated: 2305174  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 25 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 541 ms
+	number dungeon grid points evaluated: 2327807  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 50 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 498 ms
+	number dungeon grid points evaluated: 2299662  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 100 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 500 ms
+	number dungeon grid points evaluated: 2315111  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 250 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 551 ms
+	number dungeon grid points evaluated: 2322970  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 500 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 538 ms
+	number dungeon grid points evaluated: 2323356  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 250, Cutoff = 1000 ---
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+	 Number searches: 125000
+
+	 time: 479 ms
+	number dungeon grid points evaluated: 2307336  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 10 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1815 ms
+	number dungeon grid points evaluated: 8953504  (36%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 25 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1996 ms
+	number dungeon grid points evaluated: 8988014  (36%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 50 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 2259 ms
+	number dungeon grid points evaluated: 9312600  (37%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 100 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1648 ms
+	number dungeon grid points evaluated: 8727871  (35%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 250 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1859 ms
+	number dungeon grid points evaluated: 9028029  (36%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 500 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1982 ms
+	number dungeon grid points evaluated: 9020230  (36%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+--- GateSize = 500, Cutoff = 1000 ---
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+	 Number searches: 500000
+
+	 time: 1976 ms
+	number dungeon grid points evaluated: 9056158  (36%)
+Dungeon Master (mana 102338) found at:  x=44.0 y=35.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png

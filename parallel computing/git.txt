@@ -1,0 +1,53 @@
+commit 7145b3657b8eb37eed299472dbece76234f45620
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Mon Aug 25 01:35:49 2025 +0000
+
+    I  finished benchmarking here moved to the library pc ,using it as my local machine from what i have observed ,which was not what i expected this remote server oudid the library PC time and time again i ran many experiments and in all of them the remote server attained a higher speedup
+
+commit 8635087bf002cfb713b365883468724e74d7009b
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sun Aug 24 01:46:21 2025 +0000
+
+    I just found the optimum density to be 0.1 ,which I aim to use for benchmarking, also in this process i have created a bash script to help autmate the iterative process
+
+commit 471e6372a0b08c2935a4b32440ce7558ad5cd009
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 23 18:17:52 2025 +0000
+
+    I just started checking if the parallel version of the program is valid ,I used the the inputs (100 0.2 56) and (100 0.2 34) and for both i got the same maximum mana and the same boss co-ordinates now I a yet to check if the images from the serial and parallel versions are identical using the compare command in cloudshell
+
+commit c483a32f171c6930e0cbf99fe32fd07aa2695d14
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 23 12:04:15 2025 +0000
+
+    I transfered my new parallel dungeon program , unlike the previous version which i deleted this one initialises the hunting tasks in the main class and implements the recursive task in the main class , while the former version implemented this in the huntParalell class and it also only initialised the hunt after having reached the cutoff threshold which ran and found the right co-ordinated but the output images did not match the serial version
+
+commit c10a52388b2f3e85dac839cbc164662f1a72e663
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 23 11:35:18 2025 +0000
+
+    I just created a working version of the parallel vesion ,it outputs the exact picture as the serial version , i am yet transfare it into nighmare
+
+commit 12071832f4274e025061481caac808a52ed83645
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 16 22:05:45 2025 +0000
+
+    I just did another test onmy parallel version and this time i was tewsting if it got any faster with an imbalanced load and from visual inspection i can say it seems to bester becasue I tailored it to have the fork() part handle the heavier side of the workload in the events of an odd number of searches
+
+commit ed4c00a11e10658a3f4b2d771671b18cdad1c399
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 16 21:22:08 2025 +0000
+
+     I just did a a lot of manual testing and kept on increasing the no. of searches until we got to twenty million searches and then the parallel version started to loose by a large margin , also the optimal cutoff threshold seemed to be 2000 searches
+
+commit 4828edacb1bf799f731f9f4eda4338832bc00377
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Sat Aug 16 19:38:10 2025 +0200
+
+    I changed the distribution of the number of searches between the left and right subdivisions in my for and join algorithm to account for cases where the number of searches is as i intend to test such a case to see if this has any significance
+
+commit b821ed3f0c754332b3fbcfc34cf22b1ce58abcdd
+Author: Thabo Dladla <DLDTHA021@myuct.ac.za>
+Date:   Fri Aug 15 15:22:03 2025 +0000
+
+    I just uploaded my parallel program to nightmare, it awaits modifications
