@@ -1,7 +1,33 @@
-# 2nd_year_second_semester
-Has my second semester work in compsci
-## parallel computing folder  
-**Has my main parallel computing program:**  
+# 2nd Year - Second Semester (Computer Science)
 
-*Imangine youre Sung Jin Wo in Solo levelling the program simulates initiating your shadows **concurrently** to search uphill looking for the highest/strongest mana(looking for the dungeon boss for my fellow anime watchers) within a dungeon map*
-*Note to run program use **java DungeonHunterParallel 100 0.4 0.3** where **argument1 is for the gate size, argument2 is for the number of seachers and argument3 is a seed creating a different map each time you change use or you can make it to be 0 for randmoness**
+This repository contains my second semester Computer Science work at UCT.  
+The main focus here is on **Parallel Computing**.
+
+**This project was developed from a serial base program provided as course material. My contributions focused on extending it into a fully parallelized version using Java fork join framework**
+
+## Parallel Computing Project
+
+## Dungeon Hunter Parallel
+This project simulates a dungeon exploration scenario, inspired by *Solo Leveling*.  
+Imagine you are **Sung Jin-Woo**, summoning your shadows to **search concurrently** through a dungeon map, climbing uphill until they find the **strongest mana source** (the dungeon boss).
+
+Main files in **parallel** computing folder :  
+
+**DungeonHunterParallel.java** – Main entry point of the program.  
+**DungeonMapParallel.java** – Handles dungeon map creation and mana distribution.  
+**HuntParallel.java** – Defines the concurrent “shadow hunters” searching for the boss.  
+
+## How to Run
+Compile:
+```bash
+javac DungeonHunterParallel.java DungeonMapParallel.java HuntParallel.java
+
+java DungeonHunterParallel <gate_size> <num_searchers> <seed>
+
+gate_size = size of the dungeon map (e.g.100)  
+
+num_searchers =number of concurrent hunters (e.g.4)  
+
+seed = value to generate consistent dungeon maps, or 0 for randomness  
+
+
