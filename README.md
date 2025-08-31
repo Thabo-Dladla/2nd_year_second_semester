@@ -36,6 +36,7 @@ num_searchers = number of concurrent hunters (e.g. 4)
 
 seed = fixed value for reproducible maps, or 0 for randomness
 
+**e.g.**
 java DungeonHunterParallel 100 4 0  
 
 
