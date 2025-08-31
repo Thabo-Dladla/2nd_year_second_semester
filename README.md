@@ -3,7 +3,7 @@
 This repository contains my second semester Computer Science work at UCT.  
 The main focus here is on **Parallel Computing**.
 
-**This project was developed from a serial base program provided as course material. My contributions focused on extending it into a fully parallelized version using Java fork join framework**
+**This project was developed from a serial base program provided by my lecture Michelle as course material. My contributions focused on extending it into a fully parallelized version using Java fork join framework**
 
 ## Parallel Computing Project
 
