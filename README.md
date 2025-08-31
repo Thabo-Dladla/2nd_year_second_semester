@@ -25,10 +25,9 @@ Imagine you are **Sung Jin-Woo**, summoning your shadows to **search concurrentl
 **Compile:**
 ```bash
 javac DungeonHunterParallel.java DungeonMapParallel.java HuntParallel.java  
+```
+java DungeonHunterParallel <gate_size> <num_searchers> <seed>
 
-**Compile:**
-```bash
-javac DungeonHunterParallel.java DungeonMapParallel.java HuntParallel.java
 
 
 
