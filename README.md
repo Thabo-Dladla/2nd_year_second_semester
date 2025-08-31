@@ -26,14 +26,9 @@ Imagine you are **Sung Jin-Woo**, summoning your shadows to **search concurrentl
 ```bash
 javac DungeonHunterParallel.java DungeonMapParallel.java HuntParallel.java  
 
-**Run:**
+**Compile:**
 ```bash
-java DungeonHunterParallel <gate_size> <num_searchers> <seed>  
-gate_size = size of the dungeon map (e.g. 100)
-
-num_searchers = number of concurrent hunters (e.g. 4)
-
-seed = fixed value for reproducible maps, or 0 for randomness
+javac DungeonHunterParallel.java DungeonMapParallel.java HuntParallel.java
 
 
 
