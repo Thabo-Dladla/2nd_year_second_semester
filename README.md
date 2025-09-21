@@ -39,6 +39,27 @@ seed = fixed value for reproducible maps, or 0 for randomness
 **e.g.**
 java DungeonHunterParallel 100 4 0  
 
+## MIPS32 folder  
+**A folder containing my MIPS programminh practice questions**  
+
+**question1.asm is for doing fibonacci calculations, but I implemented this using the stack(which is not the most efficient) not registers**  
+
+**question2.asm is for doing calculating/approximating the Euclidean distance between two points using the algorithm:**  
+```bash
+square_root(n):
+
+     x := n
+
+     i := 0
+
+     loop_while i < n/2:
+
+          x = (x+n/x)/2
+
+          i += 1
+
+     return x
+```
 
 
 
